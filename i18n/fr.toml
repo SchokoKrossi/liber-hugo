@@ -1,8 +1,10 @@
 [home]
-  other="Acceuil"
+  other="Accueil"
 [events]
   other="Shows"
 [players]
   other="Joueuses"
 [workshops]
   other="Ateliers"
+[about]
+  other="Qui sommes nous ?"
